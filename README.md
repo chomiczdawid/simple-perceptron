@@ -1,5 +1,5 @@
 ## Simple Perceptron in Python
-The repository contains the code of a simple perceptron program that allows to classify a given set of points into two subsets. Also included are three `.csv` files with datasets.
+The repository contains a simple perceptron code that allows you to find the dividing line between two sets of points. Also included are three `.csv` files with datasets for testing.
 
 ## Used technology
 - [Python 3.8](https://www.python.org/)
